@@ -24,3 +24,4 @@ pokemonAtacanteStab = get_stab(pokemonAtacanteObjeto, moveToUse[2])
 modifierMove = modifier(pokemonAtacanteBonusVSDefensor, pokemonAtacanteStab)
 damage = damage_to_pokemon(moveToUse[1], pokemonAtacanteObjeto, pokemonDefensorObjeto, modifierMove, moveToUse[3])
 damage_inflict_print(pokemonAtacanteObjeto, pokemonDefensorObjeto, damage)
+#By Darthsita
